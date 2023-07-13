@@ -1,0 +1,3 @@
+﻿  Lab4c.cpp
+C:\Users\a00573952\source\repos\Lab4c\Lab4c\Lab4c.cpp(34,34): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Lab4c.vcxproj -> C:\Users\a00573952\source\repos\Lab4c\x64\Debug\Lab4c.exe
